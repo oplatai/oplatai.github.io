@@ -9,7 +9,7 @@ header:
 ---
 ... we deliver state-of-the results, using state-of-the art software and sometimes even pushing the state-of-the-art. Yes we have research background.
 
-Oplatai is not first speech project for most of us.
+Oplatai is not first speech project for us.
 
 # Team
 
