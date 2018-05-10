@@ -7,7 +7,7 @@ Based on Feeling responsive theme. See README.md.
   - See also `_config_dev.yml`
 2. Store to cloud, ask for review on Gitlab
   - `git@gitlab.com:oplatai-bussiness/website.git`  (remote named `origin`)
-3. Approved changes and ready to public changes deploy to `gh-pages` branch on github
+3. Approved changes and ready to public changes deploy to `master` branch on github (`master` branch is used for organization site, `gh-pages` for project site)
   - git@github.com:oplatai/oplatai.github.io.git (remote named `public`)
 
 ## Git remote setup
