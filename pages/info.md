@@ -7,7 +7,7 @@ permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-... we deliver state-of-the results, using state-of-the art software and sometimes even pushing the state-of-the-art. Yes we have research background.
+... we not only deliver state-of-the art service, but we also enjoy pushing it further. Yes, we have research background.
 
 Oplatai is not first speech project for us.
 
@@ -50,10 +50,11 @@ Vojta obtained his industry experiences in:
 - Common Tongue, Prague
 
 ## Kryštof Bořkovec
-Kryštof is a dreamer, problems/nighmares solver who thrives to understand things and turn dreams into practical actions.
-He has solid technical background as programmer and infrastructure designer from
-- Seznam.cz, Prague
-- Cern, Geneva
-In addition, he is used to challange himselfs with meaningfull problems such as educate children in Kenya about IT,
-survive alone in forest or teach few grammar school children about particle physics in depth.
+Kryštof is a dreamer and a problem solver who thrives to understand things and turn dreams into practical actions.
+He has solid technical background as programmer, BIG DATA analyst and infrastructure designer from
+- CERN, Geneva (big data analytics)
+- Seznam.cz, Prague (fulltext search, research)
+
+
+In addition, he is used to challenge himselfs with meaningfull problems such as educating children in Kenya about IT and fundamental science.
 We expect him to do no less in Oplatai.
