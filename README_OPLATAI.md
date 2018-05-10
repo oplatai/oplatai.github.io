@@ -35,6 +35,7 @@ Please use following remote naming conventions
 3. `Editace DNS zaznamu`
 4. Change the names
 5. Do not forget to `Aplikovat zmeny`
+6. Wait for DNS to update. (Check it via `dig +noall +answer oplatai.com`)
 
 original DNS records for `wedos` hosting
 
