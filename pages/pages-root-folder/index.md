@@ -21,6 +21,9 @@ widget3:
   url: 'http://oplatai.github.io/demos'
   image: widget-github-303x182.jpg
   text: 'All you need is a HTML5 browser and working microphone to try out our technology.'
+
+
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
