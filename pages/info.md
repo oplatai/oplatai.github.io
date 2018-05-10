@@ -29,20 +29,20 @@ and helped startups to build their speech interfaces
 - [Angee](http://meetangee.com)
 
 ## [Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
-Ondřej has a cool firt name so Ondřej P. tried to hire him :)
-Apart from that he is the most efficient programmer, adviser we know. He is as efficient as Occam's razor.
-He is pursuing PhD studies on University of Edinburgh and has estensive experience from industry
+Ondřej has a cool first name, so Ondřej P. decided to hire him :)
+Apart from that he is the most efficient programmer and adviser we know. He is as efficient as Occam's razor.
+He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry
 - Google, Mountain View, California
 - Socialbarks, Prague, Cz
 - Ufal, MFF CUNI, CZ
-During his studies he has created several influentual and publicly used open-source solutions
+During his studies he has created several influential and broadly used open-source solutions
 - [MT-ComparEval](https://github.com/choko/MT-ComparEval)
 - [alex-asr](https://github.com/UFAL-DSG/alex-asr)
 - [cloud-asr](https://github.com/UFAL-DSG/cloud-asr)
 
 ## [Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
-Vojta is no speaker, but fast programmer who typically solves tasks in half the time others expects.
-He has practical knowledge of vast technological stack from Scala, Python to Tensorflow, C++ to NLP toolkits.
+Vojta is no speaker, but fast programmer who typically solves tasks in half the expected time.
+He has practical knowledge of vast technological stack from Scala, Python, C++, Tensorflow or NLP toolkits.
 He just started his PhD studies on UFAL MFF CUNI in Prague and at the same time he managed to be the core member of **Angee** Voice team.
 Vojta obtained his industry experiences in:
 - Spinoco, Prague
