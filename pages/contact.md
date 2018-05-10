@@ -1,12 +1,20 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Get in touch!"
+meta_title: "Interested in speech products? Just ask us!"
+subheadline: "Contact"
+teaser: "Interested in speech products? Just ask us!"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+<pre>
+  e-mail: hello@oplatai.com
 
- [1]: http://www.wufoo.com/
+  phone: +420 737 758 650
+</pre>
+
+... or visit demos on oplatai.com
+<!-- If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay. -->
+<!--  -->
+<!--  -->
+<!--  [1]: http://www.wufoo.com/ -->

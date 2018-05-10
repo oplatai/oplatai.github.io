@@ -20,6 +20,12 @@ Site: http://mo.phlow.de/
 Twitter: @phlow
 Theme: http://phlow.github.io/feeling-responsive/
 
+Name: Ondrej Platek
+Role: Founder of oplatai.com
+Site: http://oplatai.com/
+Twitter: @oplatk
+Theme: http://phlow.github.io/feeling-responsive/
+
 
 /* SITE */
 
