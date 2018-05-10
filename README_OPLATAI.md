@@ -9,3 +9,14 @@ Based on Feeling responsive theme. See README.md.
   - `git@gitlab.com:oplatai-bussiness/website.git`  (remote named `origin`)
 3. Approved changes and ready to public changes deploy to `gh-pages` branch on github
   - git@github.com:oplatai/oplatai.github.io.git (remote named `public`)
+
+## Git remote setup
+Please use following remote naming conventions
+
+    oplatek@440:master:website$ git remote -v
+    origin  git@gitlab.com:oplatai-bussiness/website.git (fetch)
+    origin  git@gitlab.com:oplatai-bussiness/website.git (push)
+    public  git@github.com:oplatai/oplatai.github.io.git (fetch)
+    public  git@github.com:oplatai/oplatai.github.io.git (push)
+    upstream        https://github.com/Phlow/feeling-responsive.git (fetch)
+    upstream        https://github.com/Phlow/feeling-responsive.git (push)
