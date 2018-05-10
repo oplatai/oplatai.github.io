@@ -1,6 +1,8 @@
-# Oplatai website source code
+# Oplatai.com website source code
 
-Based on Feeling responsive theme. See README.md.
+Based on Feeling responsive theme. See README_FEELING_RESPONSIVE.md.
+
+# Dev docs
 
 ## Workflow
 1. [Develop locally using Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
@@ -20,3 +22,23 @@ Please use following remote naming conventions
     public  git@github.com:oplatai/oplatai.github.io.git (push)
     upstream        https://github.com/Phlow/feeling-responsive.git (fetch)
     upstream        https://github.com/Phlow/feeling-responsive.git (push)
+
+## [Custom domain docs](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+- Follow the guide for github but mainly you need to configure DNS names for `wedos`
+
+          * 1800	A	192.30.252.154
+          * 1800	A	192.30.252.153
+        vps	1800	A	185.8.165.173
+
+1. Go to https://client.wedos.com/dns/
+2. Select domain
+3. `Editace DNS zaznamu`
+4. Change the names
+5. Do not forget to `Aplikovat zmeny`
+
+original DNS records for `wedos` hosting
+
+    1800	A	46.28.105.3
+		1800	AAAA	2a02:2b88:1:4::17
+	*	1800	A	46.28.105.3
+	*	1800	AAAA	2a02:2b88:1:4::17
