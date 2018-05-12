@@ -8,6 +8,7 @@ permalink: "/contact/"
 ---
 
 <pre>
+  Oplatai s.r.o, IC 069 85 971
   e-mail: hello@oplatai.com
 
   phone: +420 737 758 650
