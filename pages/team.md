@@ -62,7 +62,7 @@ We expect him to do no less in Oplatai.
 
 **Choose your role** and shoot us a message:
 
-    mailto: hello@oplatai.coom
+    mailto:  hello@oplatai.coom
     subject: Hacker | Researcher | Designer | problem solver
     reply:
         Nice to meet you!
