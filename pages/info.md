@@ -7,9 +7,9 @@ permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-... we deliver state-of-the results, using state-of-the art software and sometimes even pushing the state-of-the-art. Yes we have research background.
+... we not only deliver state-of-the art service, but we also enjoy pushing it further. Yes, we have research background.
 
-Oplatai is not first speech project for most of us.
+Oplatai is not first speech project for us.
 
 # Team
 
@@ -29,20 +29,20 @@ and helped startups to build their speech interfaces
 - [Angee](http://meetangee.com)
 
 ## [Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
-Ondřej has a cool firt name so Ondřej P. tried to hire him :)
-Apart from that he is the most efficient programmer, adviser we know. He is as efficient as Occam's razor.
-He is pursuing PhD studies on University of Edinburgh and has estensive experience from industry
+Ondřej has a cool first name, so Ondřej P. decided to hire him :)
+Apart from that he is the most efficient programmer and adviser we know. He is as efficient as Occam's razor.
+He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry
 - Google, Mountain View, California
 - Socialbarks, Prague, Cz
 - Ufal, MFF CUNI, CZ
-During his studies he has created several influentual and publicly used open-source solutions
+During his studies he has created several influential and broadly used open-source solutions
 - [MT-ComparEval](https://github.com/choko/MT-ComparEval)
 - [alex-asr](https://github.com/UFAL-DSG/alex-asr)
 - [cloud-asr](https://github.com/UFAL-DSG/cloud-asr)
 
 ## [Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
-Vojta is no speaker, but fast programmer who typically solves tasks in half the time others expects.
-He has practical knowledge of vast technological stack from Scala, Python to Tensorflow, C++ to NLP toolkits.
+Vojta is no speaker, but fast programmer who typically solves tasks in half the expected time.
+He has practical knowledge of vast technological stack from Scala, Python, C++, Tensorflow or NLP toolkits.
 He just started his PhD studies on UFAL MFF CUNI in Prague and at the same time he managed to be the core member of **Angee** Voice team.
 Vojta obtained his industry experiences in:
 - Spinoco, Prague
@@ -50,10 +50,11 @@ Vojta obtained his industry experiences in:
 - Common Tongue, Prague
 
 ## Kryštof Bořkovec
-Kryštof is a dreamer, problems/nighmares solver who thrives to understand things and turn dreams into practical actions.
-He has solid technical background as programmer and infrastructure designer from
-- Seznam.cz, Prague
-- Cern, Geneva
-In addition, he is used to challange himselfs with meaningfull problems such as educate children in Kenya about IT,
-survive alone in forest or teach few grammar school children about particle physics in depth.
+Kryštof is a dreamer and a problem solver who thrives to understand things and turn dreams into practical actions.
+He has solid technical background as programmer, BIG DATA analyst and infrastructure designer from
+- CERN, Geneva (big data analytics)
+- Seznam.cz, Prague (fulltext search, research)
+
+
+In addition, he is used to challenge himselfs with meaningfull problems such as educating children in Kenya about IT and fundamental science.
 We expect him to do no less in Oplatai.
