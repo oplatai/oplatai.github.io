@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "Team"
 subheadline: "Why another speech-to-text company?"
 teaser: "Most of clients want working product with support than a simple cloud service. Some want privacy, most of them wants fine-tuning and special integrations."
 permalink: "/info/"

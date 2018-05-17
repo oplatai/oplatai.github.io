@@ -46,10 +46,12 @@
   # - title: "Spoken Dialogue Systems"
   #   url: "/tech/dialogues/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: About
+  url: "/team/"
   side: left
   dropdown:
+  - title: "Team"
+    url: "/team/"
   - title: "Changelog"
     url: "/changelog/"
   - title: "Roadmap"
