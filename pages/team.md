@@ -58,7 +58,7 @@ We expect him to do no less in Oplatai.
 ## YOU: Hacker | Researcher | Designer | problem solver
 
 
-We want **YOU!** We are always looking for top talent!
+**We want YOU!!! We are always looking for top talent!**
 
 **Choose your role** and shoot us a message:
 
