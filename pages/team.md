@@ -55,12 +55,15 @@ He has solid technical background as programmer, BIG DATA analyst and infrastruc
 In addition, he is used to challenge himselfs with meaningfull problems such as educating children in Kenya about IT and fundamental science.
 We expect him to do no less in Oplatai.
 
-## YOU! Hacker | Researcher | Designer | problem solver
+## YOU: Hacker | Researcher | Designer | problem solver
 
-We are always looking for top talent!
 
-**Choose your role** and shoot us a message at `hello@oplatai.com`
+We want **YOU!** We are always looking for top talent!
 
-    I would like to join our team.
+**Choose your role** and shoot us a message:
 
-    Ondrej Platek
+    mailto: hello@oplatai.coom
+    subject: Hacker | Researcher | Designer | problem solver
+    reply:
+        Nice to meet you!
+        Ondrej Platek
