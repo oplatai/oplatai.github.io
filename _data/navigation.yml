@@ -9,6 +9,7 @@
   dropdown:
   - title: "Batch Speech transcriptions"
     url: "/demo/v2/transcribe/"
+  # TODO enable
   # - title: "Speaker verification"
   #   url: "/apps/speaker-ver/"
   # - title: "Speaker diarization"
@@ -18,33 +19,15 @@
   # - title: "Spoken Dialogue Systems"
 
 
-- title: "Applications"
-  url: "/app/"
+- title: "Clients"
+  url: "/clients/"
   side: left
   dropdown:
-  - title: "Batch Speech transcriptions"
-    url: "/apps/transcribe/"
-  # - title: "Speaker verification"
-  #   url: "/apps/speaker-ver/"
-  # - title: "Speaker diarization"
-  #   url: "/apps/speaker-diar/"
-  # - title: "Spoken dialogue systems for customer care"
-  #   url: "/apps/language-id/"
-  # - title: "Spoken Dialogue Systems"
+  - title: "Angee"
+    url: "/clients/angee/"
+  - title: "Clee"
+    url: "/apps/speaker-ver/"
 
-
-- title: "Technology"
-  url: "/tech/"
-  side: left
-  dropdown:
-  - title: "Speech-to-text"
-    url: "/tech/speech-to-text/"
-  # - title: "Speaker identification"
-  #   url: "/tech/speaker-id/"
-  # - title: "Language identification"
-  #   url: "/tech/language-id/"
-  # - title: "Spoken Dialogue Systems"
-  #   url: "/tech/dialogues/"
 
 - title: About
   url: "/team/"
@@ -56,13 +39,16 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
+  - title: "Technology"
+    url: "/tech/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# TODO enable
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
