@@ -12,9 +12,10 @@ permalink: "/contact/"
   e-mail: hello@oplatai.com
 
   phone: +420 737 758 650
+  Havanská 155/16, Praha 7, 170 00
 </pre>
 
-... or visit demos on oplatai.com
+<!-- ... or talk to our chatbot/dialogue to record a message from you -->
 <!-- If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay. -->
 <!--  -->
 <!--  -->
