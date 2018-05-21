@@ -11,7 +11,7 @@ widget1:
   title: "Speech-to-Text"
   url: 'http://oplatai.github.io/apps/transcribe'
   image: widget-1-302x182.jpg
-  text: 'Our speech-to-text technology adapts to your data and effectively simplifies the task to your domain so it beats any other general speech-to-text system. <em>OplataiASR</em> offers you a fully functional speech-to-text easily **deployed in your enviroment**. We offer adaptation to down-stream application like **key-word search in audio**, **Displaying recorded audio for dictations** or **Integration into dialogue/chat systems**'
+  text: 'Our speech-to-text technology <strong>adapts to your data</strong> and effectively simplifies the task to your domain so it beats any other general speech-to-text system. <em>OplataiASR</em> offers you a fully functional speech-to-text easily <strong>deployed in your enviroment</strong>. We offer adaptation to down-stream application like <strong>key-word search in audio</strong>, <strong>Normalizing the transcription for dictations or subtitles</strong> and <strong>integration into dialogue/chat systems</strong>.'
 widget2:
   title: "Speech id / diarization"
   url: 'http://oplatai.github.io/apps/speaker-diar/'
