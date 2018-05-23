@@ -8,19 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Speech-to-Text"
-  url: 'http://oplatai.github.io/apps/transcribe'
+  title: "See our Vision"
+  url: '/vision/'
   image: widget-1-302x182.jpg
-  text: 'Our speech-to-text technology <strong>adapts to your data</strong> and effectively simplifies the task to your domain so it beats any other general speech-to-text system. <em>OplataiASR</em> offers you a fully functional speech-to-text easily <strong>deployed in your enviroment</strong>. We offer adaptation to down-stream application like <strong>key-word search in audio</strong>, <strong>Normalizing the transcription for dictations or subtitles</strong> and <strong>integration into dialogue/chat systems</strong>.'
+  text: 'We love solving problems and improving state-of-the art. We enjoy delivering speech products because they are still rare, challenging and we can do it well.'
 widget2:
-  title: "Speech id / diarization"
-  url: 'http://oplatai.github.io/apps/speaker-diar/'
-  text: '<em>Speaker diarization is in alpha</em> and will be available soon!'
-widget3:
-  title: "Get ready for our demos"
-  url: 'http://oplatai.github.io/demos'
+  title: "Meet our Team"
+  url: '/team/'
   image: widget-github-303x182.jpg
-  text: 'All you need is a HTML5 browser and working microphone to try out our technology.'
+  text: 'We enjoy working closely on the products with our customers. We easily integrate as professional software developers into your team and we are capable integrating not only our solutions but also team.<br/><br/>We are experts in the speech processing and cloud computing but before all exceptional coders. Learn our history!'
+widget3:
+  title: 'Contact us'
+  url: '/contact/'
+  image: widget-github-303x182.jpg
+  text: "Request a meeting and let's discuss your voice solution! <br/>Let us customize for you: <ul><li>search in videos,</li><li>tailored speaker recognition,</li><li>speech-to-text with diacritics</li><li> or chatbot application. </li></ul>"
 
 
 permalink: /index.html
@@ -30,10 +31,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

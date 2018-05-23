@@ -3,52 +3,23 @@
   side: left
 
 
-- title: "Demos"
-  url: "/demo/"
-  side: left
-  dropdown:
-  - title: "Batch Speech transcriptions"
-    url: "/demo/v2/transcribe/"
-  # TODO enable
-  # - title: "Speaker verification"
-  #   url: "/apps/speaker-ver/"
-  # - title: "Speaker diarization"
-  #   url: "/apps/speaker-diar/"
-  # - title: "Spoken dialogue systems for customer care"
-  #   url: "/apps/language-id/"
-  # - title: "Spoken Dialogue Systems"
-
-
 - title: "Clients"
   url: "/clients/"
   side: left
   dropdown:
   - title: "Angee"
     url: "/clients/angee/"
-  # - title: "Cleevio"
-  #   url: "/clients/cleevio/"
 
-
-- title: About
+- title: About us
   url: "/team/"
   side: left
   dropdown:
   - title: "Team"
     url: "/team/"
-  - title: "Changelog"
-    url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
-  - title: "Technology"
-    url: "/tech/"
-
-# TODO enable
-# - title: Blog
-#   url: "/blog/"
-#   side: left
-#   dropdown:
-#   - title: "Blog Archive"
-#     url: "/blog/archive/"
+  - title: "Changelog"
+    url: "/changelog/"
 
 - title: "Search"
   url: "/search/"
