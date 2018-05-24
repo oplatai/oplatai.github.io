@@ -12,7 +12,7 @@ teaser: "Successful delivery is what makes us and you satisfied."
 <iframe width='440' height='248' src='//www.youtube.com/embed/zuW0GD30chY' frameborder='0' allowfullscreen></iframe>
 
         <a href="https://www.meetangee.com/"><img src="{{ site.urlimg }}product-angee.png" alt="Angee security device" style="height:120px;float: left; margin: 5px"></a>
-        <p> <a href="http://oplatai.com">Oplatai</a> prepared final version of voice interface for a smart security device <a href="https://www.meetangee.com/">Angee</a>.<br/> See the prototypical usecase of <a href="https://www.youtube.com/watch?v=zuW0GD30chY">Angee Voice Password.</a>.</p>
+        <p> <a href="http://oplatai.com">Oplatai</a> prepared a final version of voice interface for a smart security device <a href="https://www.meetangee.com/">Angee</a>.<br/> See the prototypical usecase of <a href="https://www.youtube.com/watch?v=zuW0GD30chY">Angee Voice Password.</a>.</p>
         <p>The deployed dialogue system accepts incoming calls, provides information about security state, time and sensors.</p>
     </div><!-- /.medium-6.columns -->
 
