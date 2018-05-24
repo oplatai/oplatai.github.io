@@ -9,8 +9,10 @@ teaser: "Successful delivery is what makes us and you satisfied."
 
 <div class="row t60">
     <div id="angee" class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
-        <p> Home security device <a href="https://www.meetangee.com/">Angee</a> Voice Control one use case of<a href="https://www.youtube.com/watch?v=zuW0GD30chY">Angee Voice Password Usage</a></p>
+<iframe width='440' height='248' src='//www.youtube.com/embed/zuW0GD30chY' frameborder='0' allowfullscreen></iframe>
+
+        <a href="https://www.meetangee.com/"><img src="{{ site.urlimg }}product-angee.png" alt="Angee security device" style="height:120px;float: left; margin: 5px"></a>
+        <p> <a href="http://oplatai.com">Oplatai</a> prepared prepare final deployment of voice interface for a smart security device <a href="https://www.meetangee.com/">Angee</a>.<br/> See the prototypical usecase of <a href="https://www.youtube.com/watch?v=zuW0GD30chY">Angee Voice Password Use.</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
