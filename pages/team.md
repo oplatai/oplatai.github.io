@@ -9,48 +9,26 @@ header:
 ---
 ... we not only deliver state-of-the art service, but we also enjoy pushing it further. Yes, we have a research background.
 
-<div class="show-for-large-up">
-  <div class="row">
-      <div class="small-12 columns">
-          <h2><a href="https://www.linkedin.com/in/ondrejplatek/" target="_blank">CEO, Ondřej Plátek</a></h2>
-      </div><!-- /.small-12.columns -->
-  </div> <!-- end row-->
-  <div class="row">
-    <div class="large-4 columns">
-        <img src="{{ site.urlimg }}/oplatek_round.jpg">
-    </div>
-    <div class="large-8 columns">
-      <p>
-      Ondřej founded Oplatai in March 2018 to fill the gap of missing speech and conversation solutions for companies on the market.
-      He realized there is a huge difference between the speech interfaces promoted by big companies like Google, Amazon and Apple
-      and the speech interfaces which are available for e-commerce or public institutions.
-      </p>
-    </div>
-  </div> <!-- end row-->
-  <div class="row">
-      <p>
-      Ondřej has gained experience with speech technology mostly as a researcher and a consultant.
-      He visited labs:
-      </p>
-      <ul>
-      <li>Siri Speech team at Apple, Cupertino, California</li>
-      <li>Siri Language Modelling team at Apple, Cupertino, California</li>
-      <li>Ufal MFF CUNI, Prague, CZ</li>
-      <li>IBM Watson, Prague, CZ</li>
-      <li> FBK, Trento, Italy</li>
-      </ul>
+## [CEO, Ondřej Plátek](https://www.linkedin.com/in/ondrejplatek/)
 
-      <p>
-      He has helped startups to build their speech interfaces:
-      </p>
-      <ul>
-        <li><a href="http://omilia.com" target="_blank">Omilia</a></li>
-        <li><a href="http://meetangee.com" target="_blank">Angee</a></li>
-      </ul>
-  </div> <!-- end row-->
-</div><!-- /.show-for-large-up -->
+<img src="{{ site.urlimg }}/oplatek_round.jpg" style="float:left; width:120px; margin: 5px">
 
+Ondřej founded Oplatai in March 2018 to fill the gap of missing speech and conversation solutions for companies on the market.
+He realized there is a huge difference between the speech interfaces promoted by big companies like Google, Amazon and Apple
+and the speech interfaces which are available for e-commerce or public institutions.
 
+Ondřej has gained experience with speech technology mostly as a researcher and a consultant.
+He visited labs:
+- Siri Speech team at Apple, Cupertino, California
+- Siri Language Modelling team at Apple, Cupertino, California
+- Ufal MFF CUNI, Prague, CZ
+- IBM Watson, Prague, CZ
+- FBK, Trento, Italy
+
+He has helped startups to build their speech interfaces:
+
+- [Omilia](http://omilia.com)
+- [Angee](http://meetangee.com)
 
 ## [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
 Ondřej is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
@@ -63,24 +41,13 @@ During his studies he has created several influential and broadly used open-sour
 - [alex-asr](https://github.com/UFAL-DSG/alex-asr)
 - [cloud-asr](https://github.com/UFAL-DSG/cloud-asr)
 
+## [Researcher, Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
 
-<div class="show-for-large-up">
-  <div class="row">
-      <div class="small-12 columns">
-          <h2><a href="https://www.linkedin.com/in/vhudecek/" target="_blank">Researcher, Vojta Hudeček</a></h2>
-      </div><!-- /.small-12.columns -->
-  </div> <!-- end row-->
-  <div class="row">
-    <div class="large-4 columns">
-        <img src="{{ site.urlimg }}/vojta_round.jpg">
-    </div>
-    <div class="large-8 columns">
+<img src="{{ site.urlimg }}/vojtak_round.jpg" style="float:left; width:120px; margin: 5px">
+
 Vojta is no speaker, but a fast programmer who typically solves tasks in half the expected time.
 He has practical knowledge of vast technological stack from Scala, Python, C++, Tensorflow to NLP toolkits.
-He just started his PhD studies on UFAL MFF CUNI in Prague and at the same time he managed to be the core member of <strong><a href="http://meetangee.com">Angee Voice Team</a></strong>.
-    </div>
-  </div><!--end row-->
-</div>
+He just started his PhD studies on UFAL MFF CUNI in Prague and at the same time he managed to be the core member of **[Angee](http://meetangee.com)** Voice team.
 Vojta obtained his industry experiences in:
 - [Angee](http://meetangee.com)
 - Spinoco, Prague
