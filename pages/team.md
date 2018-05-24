@@ -43,7 +43,7 @@ During his studies he has created several influential and broadly used open-sour
 
 ## [Researcher, Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
 
-<img src="{{ site.urlimg }}/vojtak_round.jpg" style="float:left; width:120px; margin: 5px">
+<img src="{{ site.urlimg }}/vojta_round.jpg" style="float:left; width:120px; margin: 5px">
 
 Vojta is no speaker, but a fast programmer who typically solves tasks in half the expected time.
 He has practical knowledge of vast technological stack from Scala, Python, C++, Tensorflow to NLP toolkits.
