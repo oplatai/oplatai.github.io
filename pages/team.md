@@ -25,7 +25,6 @@ header:
       He realized there is a huge difference between the speech interfaces promoted by big companies like Google, Amazon and Apple
       and the speech interfaces which are available for e-commerce or public institutions.
       </p>
-
     </div>
   </div> <!-- end row-->
   <div class="row">
