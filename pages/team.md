@@ -55,10 +55,10 @@ He has solid technical background as programmer, BIG DATA analyst and infrastruc
 In addition, he is used to challenge himselfs with meaningfull problems such as educating children in Kenya about IT and fundamental science.
 We expect him to do no less in Oplatai.
 
-## YOU: Hacker | Researcher | Designer | problem solver
+## Dear Hacker | Researcher | Designer | problem solver
 
 
-**We want YOU!!! We are always looking for top talent!**
+**We are always looking for top talent!**
 
 **Choose your role** and shoot us a message:
 
