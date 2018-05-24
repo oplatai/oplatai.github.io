@@ -16,7 +16,7 @@ widget2:
   title: "Meet our Team"
   url: '/team/'
   image: widget-oplatek-303x182.jpg
-  text: 'We enjoy working closely on the products with our customers. We easily integrate not only our solutions to your product but we are cable of working hand-to-hand with your team during the process.<br/><br/>We are experts in the speech processing and cloud computing but before all exceptional coders. Learn our history!'
+  text: 'We enjoy working closely on the products with our customers. We easily integrate not only our solutions to your product but we are capable of working hand-to-hand with your team during the process.<br/><br/>We are experts in the speech processing and cloud computing but before all exceptional coders. Learn our history!'
 widget3:
   title: 'Contact us'
   url: '/contact/'
