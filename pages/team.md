@@ -16,9 +16,10 @@ and the speech interfaces which are available for e-commerce or public instituti
 
 Ondřej has gained experience with speech technology mostly as a researcher and a consultant.
 He visited labs
-- IBM Watson, Prague, CZ
-- Apple, Cupertino, California (twice)
+- Siri Speech team at Apple, Cupertino, California
+- Siri Language Modelling team at Apple, Cupertino, California
 - Ufal MFF CUNI, Prague, CZ
+- IBM Watson, Prague, CZ
 - FBK, Trento, Italy
 and helped startups to build their speech interfaces
 - [Omilia](http://omilia.com)
