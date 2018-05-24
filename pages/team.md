@@ -15,20 +15,21 @@ He realized there is a huge difference between the speech interfaces promoted by
 and the speech interfaces which are available for e-commerce or public institutions.
 
 Ondřej has gained experience with speech technology mostly as a researcher and a consultant.
-He visited labs
+He visited labs:
 - Siri Speech team at Apple, Cupertino, California
 - Siri Language Modelling team at Apple, Cupertino, California
 - Ufal MFF CUNI, Prague, CZ
 - IBM Watson, Prague, CZ
 - FBK, Trento, Italy
-and helped startups to build their speech interfaces
+
+He has helped startups to build their speech interfaces:
+
 - [Omilia](http://omilia.com)
 - [Angee](http://meetangee.com)
 
 ## [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
-Ondřej has a cool first name, so Ondřej P. decided to hire him :)
-He is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
-He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry
+Ondřej is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
+He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry:
 - Google, Mountain View, California
 - Socialbakers, Prague, Cz
 - Ufal, MFF CUNI, CZ
@@ -38,15 +39,16 @@ During his studies he has created several influential and broadly used open-sour
 - [cloud-asr](https://github.com/UFAL-DSG/cloud-asr)
 
 ## [Researcher, Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
-Vojta is no speaker, but fast programmer who typically solves tasks in half the expected time.
+Vojta is no speaker, but a fast programmer who typically solves tasks in half the expected time.
 He has practical knowledge of vast technological stack from Scala, Python, C++, Tensorflow to NLP toolkits.
-He just started his PhD studies on UFAL MFF CUNI in Prague and at the same time he managed to be the core member of **Angee** Voice team.
+He just started his PhD studies on UFAL MFF CUNI in Prague and at the same time he managed to be the core member of **[Angee](http://meetangee.com)** Voice team.
 Vojta obtained his industry experiences in:
+- [Angee](http://meetangee.com)
 - Spinoco, Prague
 - Oracle, Prague
 - Common Tongue, Prague
 
-## Product Manager, Kryštof Bořkovec
+## [Advisor, Kryštof Bořkovec](/team#advisor-kryštof-bořkovec)
 Kryštof is both a dreamer and a problem solver.
 He thrives to understand things and turn dreams into practical actions on daily bases.
 He has solid technical background as programmer, BIG DATA analyst and infrastructure designer from
@@ -56,15 +58,14 @@ He has solid technical background as programmer, BIG DATA analyst and infrastruc
 In addition, he is used to challenge himselfs with meaningfull problems such as educating children in Kenya about IT and fundamental science.
 We expect him to do no less in Oplatai.
 
-## Dear Hacker | Researcher | Designer | problem solver
+## Dear Researcher | Designer | Hacker
 
 
-**We are always looking for top talent!**
-
-**Choose your role** and shoot us a message:
+**We are always looking for top talent.**
+**Choose your role and shoot us a message!**
 
     mailto:  hello@oplatai.coom
-    subject: Hacker | Researcher | Designer | problem solver
+    subject: Hacker | Researcher | Designer
     reply:
-        Nice to meet you!
-        Ondrej Platek
+        It will be my pleasure to meet you!
+        Ondrej Platek, CEO
