@@ -38,7 +38,7 @@ improve_content: https://github.com/oplatai/oplatai.github.io/edit/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://oplatai.github.io/oplatai/images/'
+urlimg: 'https://oplatai.com/images/'
 
 
 # Logo size is 600x80 pixels

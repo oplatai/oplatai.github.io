@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Meet our Team"
   url: '/team/'
-  image: widget-github-303x182.jpg
+  image: widget-oplatek-303x182.jpg
   text: 'We enjoy working closely on the products with our customers. We easily integrate as professional software developers into your team and we are capable integrating not only our solutions but also team.<br/><br/>We are experts in the speech processing and cloud computing but before all exceptional coders. Learn our history!'
 widget3:
   title: 'Contact us'

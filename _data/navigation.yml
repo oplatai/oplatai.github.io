@@ -4,11 +4,11 @@
 
 
 - title: "Clients"
-  url: "/clients/"
+  url: "/clients"
   side: left
   dropdown:
   - title: "Angee"
-    url: "/clients/angee/"
+    url: "/clients#angee"
 
 - title: About us
   url: "/team/"
