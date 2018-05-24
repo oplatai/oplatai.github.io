@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Enjoy collaboration with us!"
-subheadline: "We design, prototype, deliver."
+title: "Enjoy collaboration with us"
+subheadline: "Get design, prototype, delivery."
 permalink: "/clients/"
-teaser: "With <strong>Oplatai</strong> we first setup clear milestones and timeline. We work with our clients through the whole process of product delivery. Successful delivery is what makes us and our customers satisfied."
+teaser: "Successful delivery is what makes us and you satisfied."
 ---
 <!--more-->
 
@@ -14,7 +14,7 @@ teaser: "With <strong>Oplatai</strong> we first setup clear milestones and timel
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+        <a href="/contact/"><img src="{{ site.urlimg }}depositphotos_23752959_ideas.jpg" alt="We would like to hear your ideas!"></a>
+        <p><a href="/contact/">Dear Customer, let's share the ideas and create new project!</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->

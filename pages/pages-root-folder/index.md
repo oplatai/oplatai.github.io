@@ -9,7 +9,7 @@ header:
   image_fullwidth: depositphotos_157936088_original_headphones_2000x770.jpg
 widget1:
   title: "See our Vision"
-  url: '/vision/'
+  url: '/team/'
   image: widget-1-302x182.jpg
   text: 'We love solving problems and improving state-of-the art. We enjoy delivering speech products because they are still rare, challenging and we can do it well.'
 widget2:
