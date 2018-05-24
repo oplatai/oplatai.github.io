@@ -16,10 +16,6 @@
   dropdown:
   - title: "Team"
     url: "/team/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-  - title: "Changelog"
-    url: "/changelog/"
 
 - title: "Search"
   url: "/search/"
