@@ -2,11 +2,6 @@
   url: "/"
   side: left
 
-
-- title: "Clients"
-  url: "/clients"
-  side: left
-
 - title: About us
   url: "/team/"
   side: left
