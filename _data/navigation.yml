@@ -6,9 +6,6 @@
 - title: "Clients"
   url: "/clients"
   side: left
-  dropdown:
-  - title: "Angee"
-    url: "/clients#angee"
 
 - title: About us
   url: "/team/"
