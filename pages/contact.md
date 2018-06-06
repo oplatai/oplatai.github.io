@@ -7,7 +7,8 @@ permalink: "/contact/"
 ---
 
 <pre>
-  e-mail: hello@oplatai.com
+  Ondřej Plátek, CEO
+  e-mail: oplatek@oplatai.com
   phone: +420 737 758 650
 
   Oplatai s.r.o
