@@ -43,3 +43,8 @@ original DNS records for `wedos` hosting
 		1800	AAAA	2a02:2b88:1:4::17
 	*	1800	A	46.28.105.3
 	*	1800	AAAA	2a02:2b88:1:4::17
+
+## SEO and other tools setup for Oplatai for sharing public info
+- Google websearch
+- Google analytics
+- Facebook, LinkedIn, Google Plus, Github
