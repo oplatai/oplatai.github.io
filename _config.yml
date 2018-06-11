@@ -141,7 +141,7 @@ defaults:
 #    \__ \/ __/ / / / /
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
-# google_author:             'https://TODO_OPLATAIplus.google.com/u/0/118311555303973066167'
+google_author:             'https://plus.google.com/+OndrejPlatek'
 # google_site_verification:  'verifieddomainviaTXTupload'
 # bing_webmastertools_id:    'verifieddomainviaTXTupload'
 # yandex_site_verification:  ''
@@ -170,7 +170,6 @@ msapplication_tileimage:                'msapplication_tileimage.png'           
 msapplication_tilecolor:                '#fabb00'
 
 
-#  TODO understand this settings       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
