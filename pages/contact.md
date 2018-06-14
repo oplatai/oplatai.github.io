@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Get in touch!"
-meta_title: "Interested in speech products? Just ask us!"
-teaser: "Interested in speech products? Just ask us!"
+meta_title: "Interested in speech & audio interface? Just ask us!"
+teaser: "Interested in speech & audio interface? Just ask us!"
 permalink: "/contact/"
 ---
 
