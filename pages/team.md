@@ -30,19 +30,33 @@ He has helped startups to build their speech interfaces:
 - [Omilia](http://omilia.com)
 - [Angee](http://meetangee.com)
 
+
 ## [Embedded Systems Engineer](https://www.linkedin.com/in/lisovy/)
 
-<img src="{{ site.urlimg }}/rosta_round.jpg" style="float:left; width:120px; margin: 5px">
+<img src="{{ site.urlimg }}/rosta_round.png" style="float:left; width:120px; margin: 5px">
 
 Rosty is a precise, constructive engineer with lot of Industry experience.
-He makes no guesses, he rationaly and effectively solves very complicated problems.
-His specialty is embedded system design or hardware.
+He rationaly and effectively solves very complicated problems.
+His speciality is an embedded system design.
 Rosta is a great fit to Oplatai because he has unique experience with
 - microphone array (& 3rd party audio DSP solution) integration
 - hands-on mechanical design for audio in/out applications
+
 He pursued his PhD career before joining the start up world as
 - [CTO of Angee](http://meetangee.com)
 where he met Ondřej and Vojta.
+
+
+## [Advisor, Kryštof Bořkovec](/team#advisor-kryštof-bořkovec)
+Kryštof is both a dreamer and a problem solver.
+He thrives to understand things and turn dreams into practical actions on daily bases.
+He has solid technical background as programmer, BIG DATA analyst and infrastructure designer from
+- CERN, Geneva (big data analytics)
+- Seznam.cz, Prague (fulltext search, research)
+
+In addition, he is used to challenge himselfs with meaningfull problems such as educating children in Kenya about IT and fundamental science.
+We expect him to do no less in Oplatai.
+
 
 ## [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
 Ondřej is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
@@ -54,6 +68,7 @@ During his studies he has created several influential and broadly used open-sour
 - [MT-ComparEval](https://github.com/choko/MT-ComparEval)
 - [alex-asr](https://github.com/UFAL-DSG/alex-asr)
 - [cloud-asr](https://github.com/UFAL-DSG/cloud-asr)
+
 
 ## [Researcher, Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
 
@@ -67,16 +82,6 @@ Vojta obtained his industry experiences in:
 - Spinoco, Prague
 - Oracle, Prague
 - Common Tongue, Prague
-
-## [Advisor, Kryštof Bořkovec](/team#advisor-kryštof-bořkovec)
-Kryštof is both a dreamer and a problem solver.
-He thrives to understand things and turn dreams into practical actions on daily bases.
-He has solid technical background as programmer, BIG DATA analyst and infrastructure designer from
-- CERN, Geneva (big data analytics)
-- Seznam.cz, Prague (fulltext search, research)
-
-In addition, he is used to challenge himselfs with meaningfull problems such as educating children in Kenya about IT and fundamental science.
-We expect him to do no less in Oplatai.
 
 ## Dear Researcher | Designer | Hacker
 
