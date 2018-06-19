@@ -33,7 +33,7 @@ He has helped startups to build their speech interfaces:
 
 ## [Embedded Systems Engineer](https://www.linkedin.com/in/lisovy/)
 
-<img src="{{ site.urlimg }}/rosta_round.png" style="float:left; width:120px; margin: 5px">
+<img src="{{ site.urlimg }}/rosty_round.png" style="float:left; width:120px; margin: 5px">
 
 Rosty is a precise, constructive engineer with lot of Industry experience.
 He rationaly and effectively solves very complicated problems.
