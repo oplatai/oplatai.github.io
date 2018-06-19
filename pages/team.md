@@ -35,8 +35,8 @@ He has helped startups to build their speech interfaces:
 
 <img src="{{ site.urlimg }}/rosty_round.png" style="float:left; width:120px; margin: 5px">
 
-Rosty is a precise, constructive engineer with lot of Industry experience.
-He rationaly and effectively solves very complicated problems.
+Rosty is a precise, constructive engineer with lot of industry experience.
+He rationally and effectively solves very complicated problems.
 His speciality is an embedded system design.
 Rosta is a great fit to Oplatai because he has unique experience with
 - microphone array (& 3rd party audio DSP solution) integration
