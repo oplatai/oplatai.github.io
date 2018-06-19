@@ -38,13 +38,17 @@ He has helped startups to build their speech interfaces:
 Rosty is a precise, constructive engineer with lot of industry experience.
 He rationally and effectively solves very complicated problems.
 His speciality is an embedded system design.
-Rosta is a great fit to Oplatai because he has unique experience with
+Rosty is a great fit to Oplatai because he has unique experience with
 - microphone array (& 3rd party audio DSP solution) integration
 - hands-on mechanical design for audio in/out applications
 
 He pursued his PhD career before joining the start up world as
 - [CTO of Angee](http://meetangee.com)
 where he met Ondřej and Vojta.
+
+Among other projects he work as
+- [Embedded Linux Engineer in Merica](http://merica.cz/cs/services/embeddedsystems/)
+- [Embedded Firmware Engineer in Pikron](https://www.pikron.com/pages/devel/medinst.html)
 
 
 ## [Advisor, Kryštof Bořkovec](/team#advisor-kryštof-bořkovec)
