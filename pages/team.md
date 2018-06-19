@@ -30,6 +30,20 @@ He has helped startups to build their speech interfaces:
 - [Omilia](http://omilia.com)
 - [Angee](http://meetangee.com)
 
+## [Embedded Systems Engineer](https://www.linkedin.com/in/lisovy/)
+
+<img src="{{ site.urlimg }}/rosta_round.jpg" style="float:left; width:120px; margin: 5px">
+
+Rosty is a precise, constructive engineer with lot of Industry experience.
+He makes no guesses, he rationaly and effectively solves very complicated problems.
+His specialty is embedded system design or hardware.
+Rosta is a great fit to Oplatai because he has unique experience with
+- microphone array (& 3rd party audio DSP solution) integration
+- hands-on mechanical design for audio in/out applications
+He pursued his PhD career before joining the start up world as
+- [CTO of Angee](http://meetangee.com)
+where he met Ondřej and Vojta.
+
 ## [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
 Ondřej is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
 He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry:
