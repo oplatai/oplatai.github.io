@@ -8,6 +8,8 @@
   dropdown:
   - title: "Team"
     url: "/team/"
+  - title: "Vision"
+    url: "/vision/"
 
 - title: "Search"
   url: "/search/"
