@@ -31,7 +31,7 @@ Once we are commited we know we can focus on the technical solutions and problem
 
 
 Do we develop our own products and tools?
-Of course! We like recent breakthroughs and as we are part of the open-source community we like to try hands-on the latest machine learning experiments.
+Of course! We study recent breakthroughs and as we are part of the open-source community we try hands-on the latest machine learning experiments.
 In addition, we all fell in love with Do It Yourself (DYI) approach and we have a great teacher [Rosty](/team/#embedded-engineer-rosty-lisov%C3%BD) so we hack simple hardware from time-to-time.
 
 In Oplatai we focus on improving a product's capability to communicate with its users.
