@@ -46,7 +46,7 @@ He pursued his PhD career before joining the start up world as
 - [CTO of Angee](http://meetangee.com)
 where he met Ondřej and Vojta.
 
-Among other projects he work as
+Among other projects he gained his experience as
 - [Research support engineer at Department of Control Engineering, FEE, CTU Prague](https://dce.fel.cvut.cz/en/rd-cooperation-offer-industry)
 - [Embedded Linux Engineer at Merica](http://merica.cz/cs/services/embeddedsystems/)
 - [Embedded Firmware Engineer at Pikron](https://www.pikron.com/pages/devel/medinst.html)
