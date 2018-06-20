@@ -5,7 +5,7 @@ subheadline: "Embrace speech data and interfaces"
 teaser: "Oplatai let you read, search and index audio and use voice commands to control your system."
 permalink: "/team/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "depositphotos_157936088_original_headphones_2000x770.jpg"
 ---
 ... we not only deliver state-of-the art service, but we also enjoy pushing it further. Yes, we have a research background.
 

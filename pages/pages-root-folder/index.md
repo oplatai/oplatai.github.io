@@ -9,7 +9,7 @@ header:
   image_fullwidth: depositphotos_157936088_original_headphones_2000x770.jpg
 widget1:
   title: "See our Vision"
-  url: '/team/'
+  url: '/vision/'
   image: widget-1-302x182.jpg
   text: 'We love solving problems and improving state-of-the art. We enjoy delivering speech products because they are still rare, challenging and we can do it well.'
 widget2:
@@ -21,7 +21,7 @@ widget3:
   title: 'Contact us'
   url: '/contact/'
   image: widget-github-303x182.jpg
-  text: "Request a meeting and let's discuss your voice solution! <br/>Let us customize for you: <ul><li>search in videos,</li><li>tailored speaker recognition,</li><li>speech-to-text with diacritics</li><li> or chatbot application. </li></ul>"
+  text: "Request a meeting and let's discuss your speech interface! <br/>Let us customize for you: <ul><li>search in videos,</li><li>tailored speaker recognition,</li><li>speech-to-text with diacritics</li><li> or chatbot application. </li></ul>"
 
 
 permalink: /index.html
