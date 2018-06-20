@@ -63,18 +63,6 @@ In addition, he is used to challenge himselfs with meaningfull problems such as 
 We expect him to do no less in Oplatai.
 
 
-## [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
-Ondřej is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
-He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry:
-- Google, Mountain View, California
-- Socialbakers, Prague, Cz
-- Ufal, MFF CUNI, CZ
-During his studies he has created several influential and broadly used open-source solutions
-- [MT-ComparEval](https://github.com/choko/MT-ComparEval)
-- [alex-asr](https://github.com/UFAL-DSG/alex-asr)
-- [cloud-asr](https://github.com/UFAL-DSG/cloud-asr)
-
-
 ## [Researcher, Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
 
 <img src="{{ site.urlimg }}/vojta_round.jpg" style="float:left; width:120px; margin: 5px">
@@ -87,6 +75,18 @@ Vojta obtained his industry experiences in:
 - Spinoco, Prague
 - Oracle, Prague
 - Common Tongue, Prague
+
+## [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
+Ondřej is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
+He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry:
+- Google, Mountain View, California
+- Socialbakers, Prague, Cz
+- Ufal, MFF CUNI, CZ
+During his studies he has created several influential and broadly used open-source solutions
+- [MT-ComparEval](https://github.com/choko/MT-ComparEval)
+- [alex-asr](https://github.com/UFAL-DSG/alex-asr)
+- [cloud-asr](https://github.com/UFAL-DSG/cloud-asr)
+
 
 ## Dear Researcher | Designer | Hacker
 
