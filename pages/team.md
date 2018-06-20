@@ -94,7 +94,7 @@ During his studies he has created several influential and broadly used open-sour
 **We are always looking for top talent.**
 **Choose your role and shoot us a message!**
 
-    mailto:  hello@oplatai.coom
+    mailto:  oplatek@oplatai.coom
     subject: Hacker | Researcher | Designer
     reply:
         It will be my pleasure to meet you!
