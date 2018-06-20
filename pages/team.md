@@ -15,7 +15,7 @@ header:
 
 Ondřej founded Oplatai in March 2018 to fill the gap of missing speech and conversation solutions for companies on the market.
 He realized there is a huge difference between the speech interfaces promoted by big companies like Google, Amazon and Apple
-and the speech interfaces which are available for e-commerce or public institutions.
+and the speech interfaces which are available for e-commerce, public institutions or hardware startups.
 
 Ondřej has gained experience with speech technology mostly as a researcher and a consultant.
 He visited labs:
