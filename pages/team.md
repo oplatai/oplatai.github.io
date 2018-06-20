@@ -31,7 +31,7 @@ He has helped startups to build their speech interfaces:
 - [Angee](http://meetangee.com)
 
 
-## [Embedded Systems Engineer, Rosty Lisovy](https://www.linkedin.com/in/lisovy/)
+## [Embedded Engineer, Rosty Lisový](https://www.linkedin.com/in/lisovy/)
 
 <img src="{{ site.urlimg }}/rosty_round.png" style="float:left; width:120px; margin: 5px">
 
