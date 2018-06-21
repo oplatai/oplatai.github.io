@@ -27,6 +27,7 @@ We evaluate each project carefully in order to decide whether
  - we are capable of delivering what our customer wants,
  - the project is aligned with our mission of improving speech interfaces so we can invest additional time if needed which we will reuse in the future,
  - we believe in the success of our customer's product so we can be a proud part of it.
+
 Once we are commited we know we can focus on the technical solutions and problems we enjoy solving.
 
 
