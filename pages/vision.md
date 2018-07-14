@@ -22,7 +22,7 @@ We want to be the best in the field because we love it and see its emerging pote
 # We connect machines with people again
 
 Speech interface is the most natural communication channel for people.
-We see a future with polished graphical user interfaces are standard, multi-model interfaces are common and interactive user interfaces allow control machines with ease.
+We see a future with polished graphical user interfaces, common multi-model interfaces and we anticipate that interactive user interfaces will allow control machines with ease.
 We take small steps to open technology to any person.
 
 We work as openly as possible on projects we believe in.
