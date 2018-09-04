@@ -10,7 +10,7 @@ header:
 
 We, Oplatai, are engineers with passion, deep understanding and love for our fields of expertise.
 Each one of us has a different focus ranging from large clusters over machine learning to embedded hardware.
-What connects us is the desire to deliver meaningfull, slick and scalable products and services.
+What connects us is the desire to deliver meaningful, slick and scalable products and services.
 
 We offer our services to companies which will benefit the most from our skills.
 We see great potential in a new area of applications for speech or in general audio interfaces.
@@ -19,7 +19,7 @@ Furthermore, we see today's application of speech-to-text as very rigid and to f
 As a young company, we fill the gap on the market for non-existing customisations of the speech tools.
 In Oplatai, we focus on speech interfaces on embedded devices which typically require high customisation.
 [We have unique experience and skills to succeed](/team/).
-We want to be the best in the field because we love it and see its emerging potential.
+We want to be the best in the field because we love it.
 
 We work as openly as possible on projects we believe in.
 In order to satisfy our customers we need to achieve excellent results.
@@ -28,7 +28,7 @@ We evaluate each project carefully in order to decide whether
  - the project is aligned with our mission of improving speech interfaces so we can invest additional time if needed which we will reuse in the future,
  - we believe in the success of our customer's product so we can be a proud part of it.
 
-Once we are commited we know we can focus on the technical solutions and problems we enjoy solving.
+Once we are committed we know we can focus on the technical solutions and problems we enjoy solving.
 
 
 Do we develop our own products and tools?
