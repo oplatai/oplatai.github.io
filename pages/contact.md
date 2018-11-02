@@ -15,7 +15,4 @@ permalink: "/contact/"
   Havanská 155/16, Praha 7, 170 00
   CID: 06985971
   VAT: CZ06985971
-
-  Team Office Location:
-  Rašínovo nábřeží 10, Praha 2
 </pre>
