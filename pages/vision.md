@@ -4,8 +4,6 @@ title: "Oplatai vision"
 subheadline: "Speech connects you with people as music does"
 teaser: "Oplatai - speech interface that fits your customer's expectations."
 permalink: "/vision/"
-header:
-    image_fullwidth: "depositphotos_157936088_original_headphones_2000x770.jpg"
 ---
 
 We, Oplatai, are engineers with passion, deep understanding and love for our fields of expertise.
@@ -20,6 +18,12 @@ As a young company, we fill the gap on the market for non-existing customisation
 In Oplatai, we focus on speech interfaces on embedded devices which typically require high customisation.
 [We have unique experience and skills to succeed](/team/).
 We want to be the best in the field because we love it.
+
+# We connect machines with people again
+
+Speech interface is the most natural communication channel for people.
+We see a future with polished graphical user interfaces, common multi-model interfaces and we anticipate that interactive user interfaces will allow control machines with ease.
+We take small steps to open technology to any person.
 
 We work as openly as possible on projects we believe in.
 In order to satisfy our customers we need to achieve excellent results.
