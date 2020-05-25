@@ -15,7 +15,4 @@ permalink: "/contact/"
   Korunní 2569/108, Praha 10, 101 00 
   CID: 06985971
   VAT: CZ06985971
-
-  Team Office Location:
-  Rašínovo nábřeží 10, Praha 2
 </pre>
