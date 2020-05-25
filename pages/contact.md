@@ -12,7 +12,7 @@ permalink: "/contact/"
   phone: +420 737 758 650
 
   Oplatai s.r.o
-  Havanská 155/16, Praha 7, 170 00
+  Korunní 2569/108, Praha 10, 101 00 
   CID: 06985971
   VAT: CZ06985971
 
