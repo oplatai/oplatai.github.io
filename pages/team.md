@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Learn about Our Team"
+title: "The Team"
 subheadline: "Embrace speech data and interfaces"
 teaser: "Oplatai let you read, search and index audio and use voice commands to control your system."
 permalink: "/team/"
@@ -31,7 +31,10 @@ He has helped startups to build their speech interfaces:
 - [Angee](http://meetangee.com)
 
 
-## [Embedded Engineer, Rosty Lisový](https://www.linkedin.com/in/lisovy/)
+## Previously Collaborated With:
+Nowadays, we organize collaboration per project bases.
+
+# [Embedded Engineer, Rosty Lisový](https://www.linkedin.com/in/lisovy/)
 
 <img src="{{ site.urlimg }}/rosty_round.png" style="float:left; width:120px; margin: 5px">
 
@@ -52,7 +55,7 @@ Among other projects he gained his experience as
 - [Embedded Firmware Engineer at Pikron](https://www.pikron.com/pages/devel/medinst.html)
 
 
-## [Advisor, Kryštof Bořkovec](/team#advisor-kryštof-bořkovec)
+# [Advisor, Kryštof Bořkovec](/team#advisor-kryštof-bořkovec)
 Kryštof is both a dreamer and a problem solver.
 He thrives to understand things and turn dreams into practical actions on daily bases.
 He has solid technical background as programmer, BIG DATA analyst and infrastructure designer from
@@ -63,7 +66,7 @@ In addition, he is used to challenge himselfs with meaningfull problems such as 
 We expect him to do no less in Oplatai.
 
 
-## [Researcher, Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
+# [Researcher, Vojta Hudeček](https://www.linkedin.com/in/vhudecek/)
 
 <img src="{{ site.urlimg }}/vojta_round.jpg" style="float:left; width:120px; margin: 5px">
 
@@ -76,7 +79,7 @@ Vojta obtained his industry experiences in:
 - Oracle, Prague
 - Common Tongue, Prague
 
-## [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
+# [Consulting ASR, Ondřej Klejch](https://www.linkedin.com/in/ondrejklejch/)
 Ondřej is the most efficient programmer one can get. Oplatai is glad to have him as supervisor and friend on phone/slack.
 He is pursuing PhD studies on University of Edinburgh and has extensive experience from industry:
 - Google, Mountain View, California
