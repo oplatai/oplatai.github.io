@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    asciidoctor (1.5.7)
+    asciidoctor (1.5.8)
     coderay (1.1.1)
     coffee-script (2.4.1)
       coffee-script-source
@@ -273,7 +273,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  asciidoctor (~> 1.5.4)
+  asciidoctor (~> 1.5.8)
   coderay (= 1.1.1)
   github-pages
   jekyll
